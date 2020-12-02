@@ -1,7 +1,7 @@
 # Perform unit conversions in PHP
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/rafa1944/unit-conversions.svg?style=flat-square)](https://packagist.org/packages/rafa1944/unit-conversions)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/rafa1944/unit-conversions/run-tests?label=tests)](https://github.com/rafa1944/unit-conversions/actions?query=workflow%3Arun-tests+branch%3Amaster)
+[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/rafa1944/unit-conversions/run-tests?label=tests)](https://github.com/rafa1944/unit-conversions/actions?query=workflow%3Atests+branch%3Amaster)
 [![Total Downloads](https://img.shields.io/packagist/dt/rafa1944/unit-conversions.svg?style=flat-square)](https://packagist.org/packages/rafa1944/unit-conversions)
 
 
